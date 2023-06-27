@@ -1,4 +1,4 @@
-path: D:\Arnav\Thapar\Guided Projects\samsung prism\yolo\data  # dataset root dir
+path: D:\Arnav\Thapar\Guided Projects\samsung prism\yolo\OD-193_ROI_Detection\data  # dataset root dir
 train: images/Train  # train images (relative to 'path')
 val: images/Train  # val images (relative to 'path')
 
